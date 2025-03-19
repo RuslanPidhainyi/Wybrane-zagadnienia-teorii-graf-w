@@ -28,7 +28,7 @@ class Graph:
         
         print() 
 
-        print("Vertex -> Neighbors  (Weight of edgees)")
+        print("Vertex - Neighbors  (Weight of edgees)")
 
         for vertex, neighbors in self.dict.items():
             print(f"Vertex {vertex}:", end=" ")
