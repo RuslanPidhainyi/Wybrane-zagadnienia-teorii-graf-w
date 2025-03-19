@@ -1,6 +1,6 @@
-# self - себе | siebie
+#self   - себе | siebie
 #vertex - вершина | wierzchołek
-#    - ребро | krawędź
+#edge   - ребро | krawędź
 #append - додати | dodać
 
 
@@ -63,7 +63,7 @@ class Graph:
     def print_graph(self):
         print("Graph in the form of an adjacency list: ")
         print()
-        print("Vertex -> Neighbors")
+        print("Vertex - Neighbors")
         for vertex, neighbors in self.adj_list.items():
             print(f"Vertex {vertex}:", end=" ")
             for neighbor in neighbors:
