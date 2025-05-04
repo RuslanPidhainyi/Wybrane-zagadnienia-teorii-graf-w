@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Macierz grafu w Csharpe", "Macierz grafu w Csharpe\Macierz grafu w Csharpe.csproj", "{CE30490B-348C-48AC-A367-B0161F9021CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphMatrix.Tests", "GraphMatrix.Tests\GraphMatrix.Tests.csproj", "{361D8A72-D1FF-44AE-A422-CD4E915E3D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE30490B-348C-48AC-A367-B0161F9021CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE30490B-348C-48AC-A367-B0161F9021CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE30490B-348C-48AC-A367-B0161F9021CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE30490B-348C-48AC-A367-B0161F9021CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361D8A72-D1FF-44AE-A422-CD4E915E3D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361D8A72-D1FF-44AE-A422-CD4E915E3D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361D8A72-D1FF-44AE-A422-CD4E915E3D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361D8A72-D1FF-44AE-A422-CD4E915E3D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
