@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361D8A72-D1FF-44AE-A422-CD4E915E3D45}|GraphMatrix.Tests\\GraphMatrix.Tests.csproj|e:\\my documents\\source\\repos\\wybrane zagadnienia teorii graf\u00F3w\\hw\\macierz grafu w csharpe\\graphmatrix.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361D8A72-D1FF-44AE-A422-CD4E915E3D45}|GraphMatrix.Tests\\GraphMatrix.Tests.csproj|solutionrelative:graphmatrix.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361D8A72-D1FF-44AE-A422-CD4E915E3D45}|GraphMatrix.Tests\\GraphMatrix.Tests.csproj|e:\\my documents\\source\\repos\\wybrane zagadnienia teorii graf\u00F3w\\hw\\macierz grafu w csharpe\\graphmatrix.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361D8A72-D1FF-44AE-A422-CD4E915E3D45}|GraphMatrix.Tests\\GraphMatrix.Tests.csproj|solutionrelative:graphmatrix.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE30490B-348C-48AC-A367-B0161F9021CE}|Macierz grafu w Csharpe\\Macierz grafu w Csharpe.csproj|e:\\my documents\\source\\repos\\wybrane zagadnienia teorii graf\u00F3w\\hw\\macierz grafu w csharpe\\macierz grafu w csharpe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE30490B-348C-48AC-A367-B0161F9021CE}|Macierz grafu w Csharpe\\Macierz grafu w Csharpe.csproj|solutionrelative:macierz grafu w csharpe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\GraphMatrix.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "GraphMatrix.Tests\\MSTestSettings.cs",
+              "ToolTip": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\GraphMatrix.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "GraphMatrix.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:02:31.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\GraphMatrix.Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "GraphMatrix.Tests\\Test1.cs",
+              "ToolTip": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\GraphMatrix.Tests\\Test1.cs",
+              "RelativeToolTip": "GraphMatrix.Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:02:27.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\Macierz grafu w Csharpe\\Program.cs",
+              "RelativeDocumentMoniker": "Macierz grafu w Csharpe\\Program.cs",
+              "ToolTip": "E:\\My documents\\source\\repos\\Wybrane zagadnienia teorii graf\u00F3w\\HW\\Macierz grafu w Csharpe\\Macierz grafu w Csharpe\\Program.cs",
+              "RelativeToolTip": "Macierz grafu w Csharpe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:01:56.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
